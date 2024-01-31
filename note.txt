@@ -10,3 +10,4 @@ this is test line in my test branch
 this is test line in my test branch 
 this is test line in my test branch 
 this is test line in my test branch 
+hello sync of local test branch with master is complete with adding the comment of sync in master
